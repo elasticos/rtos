@@ -1,5 +1,6 @@
 ## RTOS
----
+
+<br>
 
 **RTOS core kernel source code includes the following components:**
 
