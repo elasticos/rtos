@@ -1,7 +1,9 @@
 # rtos
  
-**RTOS core kernel source code includes the following components:
-**
+ 
+**RTOS core kernel source code includes the following components:**
+
+
 
 **Task Scheduler**: Responsible for managing task creation, scheduling, and context switching. It determines the execution order of tasks based on their priorities and scheduling policies.
 
@@ -21,10 +23,10 @@ These components constitute the core kernel of an RTOS, providing functions for 
 
 
 
-**RTOS的核心内核源码包括以下组件：
-**
-**
-任务调度器（Task Scheduler）**：负责管理任务的创建、调度和切换。它根据任务的优先级和调度策略来确定任务的执行顺序。
+**RTOS的核心内核源码包括以下组件：**
+
+
+**任务调度器（Task Scheduler）**：负责管理任务的创建、调度和切换。它根据任务的优先级和调度策略来确定任务的执行顺序。
 
 **任务管理器（Task Manager）**：用于管理任务的状态、优先级、堆栈和其他属性。它提供了任务的创建、删除、挂起、恢复等功能。
 
