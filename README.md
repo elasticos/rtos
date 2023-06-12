@@ -45,3 +45,7 @@ These components constitute the core kernel of an RTOS, providing functions for 
 
 **低功耗模式管理器（Low Power Mode Manager）**：用于管理系统的低功耗模式。它提供了进入和退出低功耗模式的接口，以最大程度地减少系统的能耗。
 
+
+support/维护: elastic-os@outlook.com
+
+
