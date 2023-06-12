@@ -1,9 +1,9 @@
-# rtos
- 
- 
+## RTOS
+---
+
 **RTOS core kernel source code includes the following components:**
 
-
+<br>
 
 **Task Scheduler**: Responsible for managing task creation, scheduling, and context switching. It determines the execution order of tasks based on their priorities and scheduling policies.
 
@@ -21,7 +21,11 @@ Low Power Mode Manager: Manages low power modes of the system. It provides inter
 
 These components constitute the core kernel of an RTOS, providing functions for task scheduling, synchronization, memory management, and interrupt handling. Developers can selectively use these components based on their requirements to build embedded systems that suit their applications.
 
+<br>
 
+---
+
+<br>
 
 **RTOS的核心内核源码包括以下组件：**
 
